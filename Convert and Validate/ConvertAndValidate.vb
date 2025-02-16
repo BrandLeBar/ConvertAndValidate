@@ -2,7 +2,7 @@
 'Spring 2025
 'RCET2265
 'Convert and Validate
-'
+'https://github.com/BrandLeBar/ConvertAndValidate.git
 
 Option Compare Text
 Option Strict On
